@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Husam Ferdoos 👋  
+🎓 MSc in Transportation Engineering (ITS focus)  
+👷 3 years experience at Dar Al Handasah – Highway Rehabilitation Projects  
+🚦 Passionate about Intelligent Transportation Systems, Smart Mobility & AI in Traffic  
+📍 Based in Amman,Jordan | Open to opportunities in Transportation & ITS  
 
-<!--
-**HusamFerdoos/HusamFerdoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills  
+- Traffic Simulation: SUMO, VISSIM  
+- Programming: Python (Pandas, Matplotlib, TraCI), MATLAB  
+- Project Management: Primavera P6, MS Project  
+- Civil Engineering Tools: AutoCAD, Civil 3D  
 
-Here are some ideas to get you started:
+## 📂 Featured Projects  
+- 🚦 **Adaptive Traffic Signal Simulation with SUMO**  
+- 🛣️ **Highway Rehabilitation Monitoring Dashboard**  
+- 📊 **Traffic Data Analysis using Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect on [LinkedIn] (https://www.linkedin.com/in/husam-ferdoos/).

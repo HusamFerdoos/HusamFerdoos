@@ -6,7 +6,7 @@
 
 ## 🔧 Skills  
 - Traffic Simulation: SUMO, VISSIM  
-- Programming: Python (Pandas, Matplotlib, TraCI), MATLAB  
+- Programming: Python (Pandas, Matplotlib, TraCI) 
 - Project Management: Primavera P6, MS Project  
 - Civil Engineering Tools: AutoCAD, Civil 3D  
 
